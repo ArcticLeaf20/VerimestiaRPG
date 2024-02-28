@@ -1,2 +1,2 @@
 # VerimestiaRPG
-A python based RPG created by Aidan Marsters
+A python based RPG created by Aidan Marsters (UNDER CONSTRUCTION)
